@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/Khan20f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="humzakhan21" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/humza-khan-231645175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humza khan" height="30" width="40" /></a>
-<a href="https://www.facebook.com/hamza.khan.0334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="humzakhan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/humzakhan071/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="humzakhan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/humza._khan21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="humzakhan21" height="30" width="40" /></a>
 </p>
 

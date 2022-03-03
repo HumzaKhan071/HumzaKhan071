@@ -2,16 +2,10 @@
 <h3 align="center">A Passionate Developer from Pakistan</h3>
 
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=humzakhan071&label=Profile%20views&color=0e75b6&style=flat" alt="humzakhan071" /> </p>
-
 <center>
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470wiivnekxhe647ezupmu99zoyuqkf65pj6dx2oxz&rid=giphy.gif&ct=g">
 </center>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humzakhan071" alt="humzakhan071" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

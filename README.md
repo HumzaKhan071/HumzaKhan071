@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Humza Khan</h1>
 <h3 align="center">A Passionate Developer from Pakistan</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humzakhan071&label=Profile%20views&color=0e75b6&style=flat" alt="humzakhan071" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humzakhan071" alt="humzakhan071" /></a> </p>
+https://camo.githubusercontent.com/abeb01161f3ec06efb171cfcf710ac0b832b4396a939010b5eca92b8edc364b6/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d656366303565343730776969766e656b786865363437657a75706d7539397a6f7975716b663635706a366478326f787a267269643d67697068792e6769662663743d67
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

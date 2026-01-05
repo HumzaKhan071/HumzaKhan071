@@ -1,25 +1,162 @@
-<h1 align="center">Hi 👋, I'm Humza Khan</h1>
-<h3 align="center">A Passionate Developer from Pakistan</h3>
+<div align="center">
+  
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Humza%20Khan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Flutter%20Developer%20%7C%20Mobile%20App%20Expert&descSize=20&descAlignY=55" width="100%"/>
 
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Mobile+Applications;Flutter+%7C+Dart+%7C+Firebase+Expert;3%2B+Years+of+Development+Experience;Fintech+%26+AI-Powered+Solutions" alt="Typing SVG" />
+  </a>
 
-<center>
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470wiivnekxhe647ezupmu99zoyuqkf65pj6dx2oxz&rid=giphy.gif&ct=g">
-</center>
+  <!-- Profile Views & Followers -->
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=humzakhan071&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/HumzaKhan071?tab=followers">
+    <img src="https://img.shields.io/github/followers/humzakhan071?label=Followers&style=for-the-badge&color=8b5cf6" alt="Followers"/>
+  </a>
+  
+</div>
 
+<!-- About Section -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/DeveloperHumza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="humzakhan21" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/humzakhan071/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humza khan" height="30" width="40" /></a>
-<a href="https://www.facebook.com/humzakhan071/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="humzakhan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/humza._khan21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="humzakhan21" height="30" width="40" /></a>
-</p>
+```typescript
+const humzaKhan = {
+    pronouns: "he" | "him",
+    location: "Karachi, Pakistan 🇵🇰",
+    currentRole: "Senior Flutter Developer @ RAPTR GAMES",
+    education: "BS Software Engineering - SMIU",
+    
+    expertise: ["Mobile App Development", "Fintech Solutions", "AI-Powered Apps"],
+    
+    currentlyLearning: ["Advanced AI Integration", "System Design"],
+    
+    funFact: "I've built 50+ apps and still get excited for every new project! 🚀"
+};
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="320" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470wiivnekxhe647ezupmu99zoyuqkf65pj6dx2oxz&rid=giphy.gif&ct=g">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=humzakhan071&show_icons=true&locale=en&layout=compact" alt="humzakhan071" /></p>
+### 🎯 What I Do
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=humzakhan071&show_icons=true&locale=en" alt="humzakhan071" /></p>
+- 🔭 Currently working at **RAPTR GAMES** as Senior Flutter Developer
+- 💼 Building **Fintech** & **Gaming** applications
+- 🤖 Integrating **AI** (OpenAI, Claude, Grok) into mobile apps
+- 📱 Crafting beautiful **cross-platform** experiences
+- 🎓 Mentoring aspiring developers
+- 💬 Ask me about **Flutter, Dart, Firebase, Mobile Architecture**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humzakhan071&" alt="humzakhan071" /></p>
+<br clear="right"/>
+
+---
+
+<!-- Tech Stack -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+
+<div align="center">
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+### 🔥 Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🌐 Web Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div>
+
+---
+
+<!-- GitHub Stats -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=humzakhan071&show_icons=true&count_private=true&hide_border=true&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Humza Khan github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humzakhan071&layout=compact&hide_border=true&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=humzakhan071&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=8b5cf6&fire=6366f1&currStreakLabel=8b5cf6" alt="Humza Khan streak stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=humzakhan071&bg_color=0d1117&color=8b5cf6&line=6366f1&point=ffffff&area=true&hide_border=true" width="90%"/>
+</div>
+
+---
+
+<!-- Services -->
+## 💼 Services I Offer
+
+<div align="center">
+
+| 🎮 Fintech & Gaming Apps | 🤖 AI-Powered Apps | 📱 Flutter Development |
+|:---:|:---:|:---:|
+| Payment Integration | OpenAI/GPT Integration | Cross-platform Apps |
+| Secure Transactions | Claude & Grok APIs | Custom UI/UX |
+| Gaming Features | AI Chatbots | Firebase Backend |
+
+<br/>
+
+[![Fiverr](https://img.shields.io/badge/Hire_Me_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/humzakhan350)
+
+</div>
+
+---
+
+<!-- Connect -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
+
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/humzakhan071/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/DeveloperHumza">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/humza._khan21/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/humzakhan071/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:humzakhan071@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <br/><br/>
+  
+  ### 💬 Open for Freelance & Full-time Opportunities!
+  
+  <img src="https://img.shields.io/badge/Available_for_Hire-00C853?style=for-the-badge" alt="Available"/>
+
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  <b>⭐ From <a href="https://github.com/HumzaKhan071">Humza Khan</a> with ❤️</b>
+</div>
+

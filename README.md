@@ -87,16 +87,20 @@ const humzaKhan = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=humzakhan071&show_icons=true&count_private=true&hide_border=true&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Humza Khan github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humzakhan071&layout=compact&hide_border=true&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117" />
+  <a href="https://github.com/HumzaKhan071">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HumzaKhan071&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumzaKhan071&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=humzakhan071&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=8b5cf6&fire=6366f1&currStreakLabel=8b5cf6" alt="Humza Khan streak stats"/>
+  <a href="https://github.com/HumzaKhan071">
+    <img src="https://streak-stats.demolab.com?user=HumzaKhan071&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=humzakhan071&bg_color=0d1117&color=8b5cf6&line=6366f1&point=ffffff&area=true&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HumzaKhan071&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---

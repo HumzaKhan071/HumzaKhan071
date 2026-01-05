@@ -86,22 +86,18 @@ const humzaKhan = {
 <!-- GitHub Stats -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/HumzaKhan071">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HumzaKhan071&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumzaKhan071&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HumzaKhan071&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumzaKhan071&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165"/>
+</p> -->
 
-<div align="center">
-  <a href="https://github.com/HumzaKhan071">
-    <img src="https://streak-stats.demolab.com?user=HumzaKhan071&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HumzaKhan071&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HumzaKhan071&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HumzaKhan071&theme=redical&hide_border=true&area=true" width="95%"/>
+</p>
 
 ---
 

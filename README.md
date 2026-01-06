@@ -35,9 +35,11 @@ const humzaKhan = {
 };
 ```
 
-<img align="right" alt="Coding" width="320" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470wiivnekxhe647ezupmu99zoyuqkf65pj6dx2oxz&rid=giphy.gif&ct=g">
-
 ### 🎯 What I Do
+
+<table>
+<tr>
+<td width="60%">
 
 - 🔭 Currently working at **RAPTR GAMES** as Senior Flutter Developer
 - 💼 Building **Fintech** & **Gaming** applications
@@ -46,7 +48,14 @@ const humzaKhan = {
 - 🎓 Mentoring aspiring developers
 - 💬 Ask me about **Flutter, Dart, Firebase, Mobile Architecture**
 
-<br clear="right"/>
+</td>
+<td width="40%">
+
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 

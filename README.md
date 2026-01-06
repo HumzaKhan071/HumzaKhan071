@@ -91,9 +91,9 @@ const humzaKhan = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumzaKhan071&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165"/>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HumzaKhan071&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HumzaKhan071&theme=redical&hide_border=true&area=true" width="95%"/>
